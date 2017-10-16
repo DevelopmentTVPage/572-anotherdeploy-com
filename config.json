@@ -1,0 +1,15 @@
+{
+    "title": "another deploy",
+    "baseURL": "https:\/\/anotherdeploy.com\/deploy",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "\/deploy",
+        "firstpartycookies": true,
+        "cookiedomain": "anotherdeploy.com"
+    }
+}
